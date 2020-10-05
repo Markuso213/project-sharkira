@@ -1,2 +1,2 @@
 # project-sharkira
-Shark bites are mandatory, not optional.
+Script used to hijack chromecast on local network to play shark videos from youtube.
